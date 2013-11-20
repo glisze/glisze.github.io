@@ -4,10 +4,13 @@ glisze.github.io
 what is this thing called...  web?
 
 
-* [workflow]https://github.com/blog/1557-github-flow-in-the-browser
-* http://glisze.github.io
-* http://developer.github.com/v3/
+* [workflow](https://github.com/blog/1557-github-flow-in-the-browser)
+* [The rendering of a collaboration area.](http://glisze.github.io); a presentation of the collaboration repository
+* [The developer documentation. About github.com](http://developer.github.com/v3/)
 
 ## Clone this Collaboration Area
 
-    gi clone http://developer.github.com/v3/
+On a desktop, on a server, on a cloudy day, in the virtual real business technology environment;
+collaborate:
+
+    git clone https://github.com/glisze/glisze.github.io
