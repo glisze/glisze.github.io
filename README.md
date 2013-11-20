@@ -14,3 +14,5 @@ On a desktop, on a server, on a cloudy day, in the virtual real business technol
 collaborate:
 
     git clone https://github.com/glisze/glisze.github.io
+
+This has now been tested.
