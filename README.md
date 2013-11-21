@@ -23,7 +23,9 @@ This has now been tested.
 
 Google Code and the Go Language
 ===============================
-[google-go][go]
+The officil mercurial [Go Language[go] repository on cdodegoogle.com has been cloned,
+and is also available on GitHub as a [repository mirror][go-mirror]
 
 [go]: https://code.google.com/r/gunterliszewski-go/ "Google Code - Go Repository"
 [gfm]: https://help.github.com/articles/github-flavored-markdown "GitHub Flavours marksown"
+[go-mirror]: http://github.com/go "Go Language Repository mirror of google code"
