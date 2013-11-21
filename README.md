@@ -29,7 +29,9 @@ and is also available on GitHub as a [repository mirror][go-mirror]
 Tasks
 ======
 Find the right place for it. It appears not to be this place.
+Thefollowing is to bemoved to an ```issue```
 
+```
 - [] Setup and maintain a task list
 - [] decide! Is this the place for it?
 - [x] Use Emacs org mode to maintain a task list
@@ -39,6 +41,7 @@ Find the right place for it. It appears not to be this place.
 - [] maintain the designated task list
 - [] reconcile current tasks
 - [] review __the Get Things Done__ thingamagik, aaahhhmmm methodology
+```
 
 [go]: https://code.google.com/r/gunterliszewski-go/ "Google Code - Go Repository"
 [gfm]: https://help.github.com/articles/github-flavored-markdown "GitHub Flavours marksown"
