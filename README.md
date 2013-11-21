@@ -16,3 +16,11 @@ collaborate:
     git clone https://github.com/glisze/glisze.github.io
 
 This has now been tested.
+
+Google Code and the Go Language
+===============================
+[gunterliszewski-go repository on google code][go]
+
+
+
+[go]:(https://code.google.com/r/gunterliszewski-go/ "Google Code - Go Repository")
