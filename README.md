@@ -29,7 +29,7 @@ and is also available on GitHub as a [repository mirror][go-mirror]
 Tasks
 ======
 Find the right place for it. It appears not to be this place.
-Thefollowing is to bemoved to an ```issue```
+The following is to be moved to an ```issue```
 
 ```
 - [] Setup and maintain a task list
