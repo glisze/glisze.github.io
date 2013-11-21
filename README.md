@@ -23,4 +23,4 @@ Google Code and the Go Language
 
 
 
-[go]:(https://code.google.com/r/gunterliszewski-go/ "Google Code - Go Repository")
+[go]: https://code.google.com/r/gunterliszewski-go/ "Google Code - Go Repository"
