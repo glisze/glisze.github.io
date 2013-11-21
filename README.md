@@ -19,7 +19,7 @@ This has now been tested.
 
 Google Code and the Go Language
 ===============================
-[gunterliszewski-go repository on google code][go]
+[google-go][go]
 
 
 
