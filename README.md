@@ -17,6 +17,9 @@ collaborate:
 
 This has now been tested.
 
+## Working on this here page
+
+1001. It uses [GitHub Flavoured Markup][gfm]
 Google Code and the Go Language
 ===============================
 [google-go][go]
@@ -24,3 +27,4 @@ Google Code and the Go Language
 
 
 [go]: https://code.google.com/r/gunterliszewski-go/ "Google Code - Go Repository"
+[gfm]: https://help.github.com/articles/github-flavored-markdown "GitHub Flavours marksown"
