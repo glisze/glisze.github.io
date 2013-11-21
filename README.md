@@ -26,6 +26,16 @@ Google Code and the Go Language
 The officil mercurial [Go Language[go] repository on cdodegoogle.com has been cloned,
 and is also available on GitHub as a [repository mirror][go-mirror]
 
+- [] Setup and maintain a task list
+- [] decide! Is this the place for it?
+- [x] Use Emacs org mode to maintain a task list
+- [] Integrate Emacs and this github task list. But consider the result of another rlevant task
+- [] review the org-mode task system. Including remember, or such like
+- [] decide:what next
+- [] maintain the designated task list
+- [] reconcile current tasks
+- [] review __the Get Things Done__ thingamagik, aaahhhmmm methodology
+
 [go]: https://code.google.com/r/gunterliszewski-go/ "Google Code - Go Repository"
 [gfm]: https://help.github.com/articles/github-flavored-markdown "GitHub Flavours marksown"
 [go-mirror]: http://github.com/go "Go Language Repository mirror of google code"
