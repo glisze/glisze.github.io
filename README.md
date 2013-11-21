@@ -23,8 +23,12 @@ This has now been tested.
 
 Google Code and the Go Language
 ===============================
-The officil mercurial [Go Language[go] repository on cdodegoogle.com has been cloned,
+The officil mercurial [Go Language go] repository on cdodegoogle.com has been cloned,
 and is also available on GitHub as a [repository mirror][go-mirror]
+
+Tasks
+======
+Find the right place for it. It appears not to be this place.
 
 - [] Setup and maintain a task list
 - [] decide! Is this the place for it?
