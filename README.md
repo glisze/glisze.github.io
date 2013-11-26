@@ -17,6 +17,10 @@ collaborate:
 
 This has now been tested.
 
+### Have a look, at this Emacs Thing for gitHub
+
+[Emacs and Github, on Github Sigma][1]
+
 ## Working on this here page
 
 1001. It uses [GitHub Flavoured Markdown][gfm]
@@ -46,3 +50,4 @@ The following is to be moved to an ```issue```
 [go]: https://code.google.com/r/gunterliszewski-go/ "Google Code - Go Repository"
 [gfm]: https://help.github.com/articles/github-flavored-markdown "GitHub Flavours marksown"
 [go-mirror]: http://github.com/go "Go Language Repository mirror of google code"
+[1]: https://github.com/sigma/gh.el "github client for emacs"
