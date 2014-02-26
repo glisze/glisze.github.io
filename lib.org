@@ -1,0 +1,8 @@
+* COMMENT Head -*- mode: org -*-
+* Libraries Wifi Instructions
+
+[Wifi Instructions](1)
+
+
+[1]: http://www.librariesni.org.uk/wifimanuals/LibrariesNI%20Public%20WiFi%20Instructions%20for%20iOS%20Devices%20-%20V0.1.pdf1)
+
